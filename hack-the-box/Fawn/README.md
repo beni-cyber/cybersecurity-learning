@@ -37,7 +37,7 @@ Se realizó un escaneo para identificar los servicios disponibles.
 ```bash
 nmap <IP>
 ```
-
+![Escaneo Nmap](nmap.png)
 Resultado:
 
 - Puerto **21/tcp** abierto.
