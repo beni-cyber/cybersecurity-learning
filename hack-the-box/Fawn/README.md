@@ -43,7 +43,7 @@ Resultado:
 - Puerto **21/tcp** abierto.
 - Servicio **FTP (vsFTPd 3.0.3)**.
 
-![Escaneo Nmap](primer comando 1 laboratorio.png)
+![Escaneo Nmap](nmap.png)
 ### 3. Acceso mediante FTP
 
 Se realizó la conexión utilizando el usuario anónimo.
