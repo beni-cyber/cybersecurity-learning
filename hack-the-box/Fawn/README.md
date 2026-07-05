@@ -88,7 +88,7 @@ get flag.txt
 ```bash
 cat flag.txt
 ```
-
+![Flag obtenida](flag.png)
 ---
 
 ## 📚 Conceptos aprendidos
