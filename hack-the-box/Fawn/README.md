@@ -63,7 +63,7 @@ Contraseña:
 ```text
 (Enter)
 ```
-
+![Acceso FTP](ftp.png)
 ### 4. Enumeración
 
 Se listaron los archivos disponibles.
